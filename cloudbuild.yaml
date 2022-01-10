@@ -8,4 +8,4 @@ steps:
   - --trigger-http
   - --runtime=python37
   - --allow-unauthenticated
-  - --service-account=cloud-function-tests-337419@appspot.gserviceaccount.com
+
